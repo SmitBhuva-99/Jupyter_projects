@@ -2,6 +2,11 @@
 
 This script contains a yield prediction model for cumin using various regression techniques. The model is built using historical yield data and weather variables.
 
+## **Team members:**
+1. [Parth Patel](www.github.com/Parth-Patel-4403)
+2. [Piyush Pandya](www.github.com/Piyushpandya83)
+3. [Viraj Hirpara](www.github.com/viraj-patel07)
+
 ## **Table of Contents**: 
 1. Data Preparation 
 2. Regression Models 
