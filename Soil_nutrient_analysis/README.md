@@ -5,6 +5,12 @@
 * To empower farmers to make decisions for sustainable crop production and soil management, we leverage machine learning to enhance soil nutrient prediction.
 * To significantly impact agriculture and related industries, the project focuses on accurately predicting soil nutrient levels. This provides valuable insights for advancing agricultural practices and ultimately boosting crop productivity.
 
+## Team members:
+* Deep Pethani : https://github.com/deeppethani02
+* Harsh Chothani : https://github.com/Harsh-Chothani
+* Darshan Gajera : https://github.com/Darshan5G
+* Jasmin Babariya : https://github.com/Jasminbabariya48
+
 ## Data:
 1. Study area : Vadodara(Baroda) District of Gujarat, India
 2. Normalized Difference Vegetation Index (NDVI) : [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_32DAY_NDVI)
